@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BIL4L-KH4N/....."
+    "url": "git+https://github.com/BIL4L-KH4N/files"
   },
   "author": "BILAL KHAN (BSN)",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "uuid": "^3.3.2"
   },
   "bugs": {
-    "url": "https://github.com/BIL4L-KH4N/....."
+    "url": "https://github.com/BIL4L-KH4N/files/issues"
   },
-  "homepage": "https://github.com/BIL4L-KH4N/.....#readme"
+  "homepage": "https://github.com/BIL4L-KH4N/files#readme"
 }
